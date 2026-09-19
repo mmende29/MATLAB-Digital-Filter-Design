@@ -33,10 +33,10 @@ The project is split into two primary execution scripts located in `/src/`:
 ### Received Signal Eye Diagram & Histogram
 *(Observe the signal timing and statistical distribution of the received states at the optimal sampling instant)*
 
-![Eye Diagram](..assets/eye_diagram_clean.png)
-![Histogram](../assets/histogram_noise_0.1.png)
+![Eye Diagram](assets/eye_diagram_clean.png)
+![Histogram](/assets/histogram_noise_0.1.png)
 
 ### Bit Error Rate Optimization
 *(The optimization curve balancing ISI and AWGN to find the optimal RC filter bandwidth)*
 
-![BER vs Bandwidth](../assets/ber_vs_bandwidth.png)
+![BER vs Bandwidth](/assets/ber_vs_bandwidth.png)
