@@ -16,7 +16,6 @@ In digital communications, selecting the optimal receiver filter bandwidth is a 
 
 * `/src/`: Contains all MATLAB `.m` scripts and modular functions.
 * `/assets/`: Contains generated signal visualizations and performance plots.
-* `/docs/`: Contains the mathematical parameters.
 
 ## Pipeline & Execution
 
